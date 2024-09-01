@@ -1381,15 +1381,17 @@
                 },
                 {
                     "type": "file",
-                    "url": "https://www.khronos.org/registry/OpenCL/api/2.1/cl.hpp",
+                    "url": "https://github.com/KhronosGroup/OpenCL-CLHPP/raw/6e0d981a9248a9f3f219132c7f4022c293ef73f9/release/cl.hpp",
                     "sha256": "08034743b513512bb6ea3a1e9a59bdf1842d8199fccad73ac1b406a88d60f7e0",
-                    "dest-filename": "khronos-headers/CL/cl.hpp"
+                    "dest": "khronos-headers/CL",
+                    "dest-filename": "cl.hpp"
                 },
                 {
                     "type": "file",
                     "url": "https://github.com/KhronosGroup/OpenCL-CLHPP/releases/download/v2.0.10/cl2.hpp",
                     "sha256": "7c5bce92a5c38480db1f8d929c965378c8448e956b1e3b41d49c57b3cc0398ec",
-                    "dest-filename": "khronos-headers/CL/cl2.hpp"
+                    "dest": "khronos-headers/CL",
+                    "dest-filename": "cl2.hpp"
                 }
             ],
             "post-install": [
