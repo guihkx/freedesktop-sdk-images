@@ -806,8 +806,8 @@
             "sources": [
                  {
                      "type": "archive",
-                     "url": "http://cgit.freedesktop.org/~aplattner/libvdpau/snapshot/libvdpau-1.1.1.tar.bz2",
-                     "sha256": "e0d3840e2d2bda66f8fa953e9cb3d0d1925d42616cad90d73a64cf8ec6227bfa"
+                     "url": "https://github.com/aaronp24/libvdpau/releases/download/libvdpau-1.1.1/libvdpau-1.1.1.tar.bz2",
+                     "sha256": "857a01932609225b9a3a5bf222b85e39b55c08787d0ad427dbd9ec033d58d736"
                  }
             ]
         },
