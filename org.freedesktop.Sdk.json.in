@@ -1714,8 +1714,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "http://kcat.strangesoft.net/openal-releases/openal-soft-1.17.2.tar.bz2",
-                    "sha256": "a341f8542f1f0b8c65241a17da13d073f18ec06658e1a1606a8ecc8bbc2b3314"
+                    "url": "https://github.com/kcat/openal-soft/archive/refs/tags/openal-soft-1.17.2.tar.gz",
+                    "sha256": "11ea176f6cbf9763dbce0953dd77ab72d032b4ad95f07afffb91844abb174033"
                 },
                 {
                     "type": "patch",
